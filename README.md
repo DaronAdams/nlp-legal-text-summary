@@ -21,10 +21,16 @@ pip install torch
 ```
 
 Navigate to the directory where you saved the file
-Open VsCode or your IDE of choice
+Open VsCode or your IDE of choice and start the server using
 
 ```python
 python server.py
+```
+
+By default flask will run on the following url
+
+```bash
+http://127.0.0.1:5000/#
 ```
 
 ## Contributing
